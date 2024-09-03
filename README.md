@@ -1,2 +1,2 @@
 # sqlbasedproject
-this us basic portfolio project of pizzas sales using SQL.
+this is basic portfolio project of pizzas sales using SQL.
